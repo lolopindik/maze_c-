@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmitriy\\source\\repos\\old_progect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72386ACD-9FFC-49BB-B4FA-C7A2B439E5E7}|old_progect\\old_progect.vcxproj|C:\\Users\\Dmitriy\\source\\repos\\old_progect\\old_progect\\old_progect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72386ACD-9FFC-49BB-B4FA-C7A2B439E5E7}|old_progect\\old_progect.vcxproj|solutionrelative:old_progect\\old_progect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "old_progect.cpp",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\old_progect\\old_progect\\old_progect.cpp",
+              "RelativeDocumentMoniker": "old_progect\\old_progect.cpp",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\old_progect\\old_progect\\old_progect.cpp",
+              "RelativeToolTip": "old_progect\\old_progect.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAICAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-21T10:38:38.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
